@@ -1,0 +1,12 @@
+*.data
+*.npz
+*.jpg
+*.dataset
+*.74
+*.weights
+*.backup
+*.txt
+*.pyc
+darknet/obj/
+darknet/data/
+*.out
